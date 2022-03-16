@@ -1,10 +1,14 @@
-# Practica-4
+# Practica 4
 * Carlos Iglesias Ferriol
 * Gabriel Ortiz Severino
 
 # Introducción
 
 ¿Que es Git?
+github es una herramienta .....
 ¿Que es GitHub?
+Markdown
+Versionado Semantico
+Refactorización
 
-# Pasos que hemos seguid para realizar la Practica 4
+# Desarrollo Practica 4
