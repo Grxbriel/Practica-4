@@ -29,7 +29,7 @@ El versionamiento semántico es un convenio o estándar a la hora de definir la 
 ### Markdown
 Es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
 
-En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, ya que explica ssu sintaxis básicas y algunos consejos: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, ya que explica ssu sintaxis básicas y algunos consejos: [Guia MarkDown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 # Desarrollo Practica 4
 
