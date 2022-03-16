@@ -43,8 +43,9 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
   - `Git clone https://github.com/Grxbriel/Practica-4.git`
 
 3. Lo siguiente que haremos será crear la versión 2.0.0 del proyecto:
-  1. Eliminaremos <<interface>> Sonido y todo lo relacionado:
-  - ``
+  1. Eliminaremos <<interface>> Sonido:
+  - `public class Barco implements Sonido {
+      }`
   
   2. Para actualizar la versión 2.0.0 usaremos los sigiuentes comandos:
   - `git add .`
