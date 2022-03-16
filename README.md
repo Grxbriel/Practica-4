@@ -42,4 +42,5 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 2. Una vez tenemos el repositorio creado en GitHub con nuestro proyecto, los compañeros pueden descargarse el proyecto a local con el siguiente comando:
 - `Git clone https://github.com/Grxbriel/Practica-4.git`
 
-3. 
+3. Lo siguiente que haremos será crear la versión 2.0.0 del proyecto:
+
