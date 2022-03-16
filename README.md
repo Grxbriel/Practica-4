@@ -33,4 +33,16 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 
 # Desarrollo Practica 4
 
+1. Primer Paso
 
+2. Segundo Paso
+
+3. Tercer Paso
+
+4. Cuarto Paso
+
+5. Quinto Paso
+
+6. Sexto Paso
+
+7. etc
