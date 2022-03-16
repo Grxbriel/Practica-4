@@ -1,22 +1,22 @@
-## Practica 4
+# Practica 4
 * Carlos Iglesias Ferriol
 * Gabriel Ortiz Severino
 
-# Introducción
+## Introducción
 
-######¿Que es Git?
+###### ¿Que es Git?
 github es una herramienta .....
 
-######¿Que es GitHub?
+###### ¿Que es GitHub?
 es una heramienta.....
 
-######Markdown
+###### Markdown
 es una heramienta.....
 
-######Versionado Semantico
+###### Versionado Semantico
 es una heramienta.....
 
-######Refactorización
+###### Refactorización
 es una heramienta.....
 
 # Desarrollo Practica 4
