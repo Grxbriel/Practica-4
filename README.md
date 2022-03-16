@@ -44,11 +44,17 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 
 3. Lo siguiente que haremos será crear la versión 2.0.0 del proyecto:
   1. Eliminaremos <<interface>> Sonido:
-  - ```
-  public class Barco implements Sonido {
+  - ````
+```
+public class Barco implements Sonido {
 
 }
-  ```
+  
+public abstract class Mascota implements Sonido {
+
+}
+```
+````
   
   2. Para actualizar la versión 2.0.0 usaremos los sigiuentes comandos:
   - `git add .`
