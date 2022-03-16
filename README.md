@@ -66,45 +66,45 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 
 4. Ahora pasaremos a la versión 2.1.0:
   i. En esta nueva rama lo que haremos será crear una nueva clase para el proyecto llamada pez:
-  ```
-  public class Pez extends Mascota {
+	  ```
+	  public class Pez extends Mascota {
 
-    //Atributos
-    private String raza ;
+	    //Atributos
+	    private String raza ;
 
-    //Constructores
-    public Pez(String raza){
-        super(Nombre, Edad);
-        this.setRaza(raza);
-    }
-    public Pez(){
-        super();
-        this.raza = null;
-    }
+	    //Constructores
+	    public Pez(String raza){
+		super(Nombre, Edad);
+		this.setRaza(raza);
+	    }
+	    public Pez(){
+		super();
+		this.raza = null;
+	    }
 
-    //toString
-    @Override
-	public String toString() {
-		return "Pez [raza=" + raza + ", getNombre()=" + getNombre() + ", getEdad()=" + getEdad() + "]";
+	    //toString
+	    @Override
+		public String toString() {
+			return "Pez [raza=" + raza + ", getNombre()=" + getNombre() + ", getEdad()=" + getEdad() + "]";
+		}
+
+	    //Getters y Setters
+	    public String getRaza() {
+			return raza;
+		}
+		public void setRaza(String raza) {
+			this.raza = raza;
+		}
 	}
-
-    //Getters y Setters
-    public String getRaza() {
-		return raza;
-	}
-	public void setRaza(String raza) {
-		this.raza = raza;
-	}
-}
-  ```
+  	```
   ii. Crearemos una nueva rama:
-  `git branch desarrollo origin/master `
-  `git switch desarrollo`
+  	- `git branch desarrollo origin/master `
+  	- `git switch desarrollo`
   
   iii. Finalmente subimos la version 2.1.0 a Github con los camndos:
-    - `git add .`
-    - `git commit -m "2.1.0"`
-    - `git push`
+  	  - `git add .`
+  	  - `git commit -m "2.1.0"`
+  	  - `git push`
 
 6. Cambios para la nueva versión 2.2.0:
 7. Actualizamos la rama principal con la rama creada anteriormente usando estos comandos:
