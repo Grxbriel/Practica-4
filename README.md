@@ -33,20 +33,13 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 
 # Desarrollo Practica 4
 
-1. Para subir nuestro proyecto ya empezado a GitHub lo que haremos será usar los siguientes comandos: (Estos los usaremos estando en la carpte de nuestro proyecto para veitar tener que poner rutas)
+1. Para subir nuestro proyecto ya empezado a GitHub lo que haremos será usar los siguientes comandos (Estos los usaremos estando en la carpte de nuestro proyecto para veitar tener que poner rutas) :
 - `~/Documents/Practica 4 $ git init`
 - `git add .`
 - `git commit -m "1.0.0"`
 - `git push`
 
-2. Para poder trabajar con el proyecto que ha subido nuestro ocmpañero usaremos ` ` y de esta manera lo descargaremos en local
+2. Una vez tenemos el repositorio creado en GitHub con nuestro proyecto, los compañeros pueden descargarse el proyecto a local con el siguiente comando:
+- `Git clone https://github.com/Grxbriel/Practica-4.git`
 
-3. Tercer Paso
-
-4. Cuarto Paso
-
-5. Quinto Paso
-
-6. Sexto Paso
-
-7. etc
+3. 
