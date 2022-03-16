@@ -63,3 +63,13 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
     - `git add .`
     - `git commit -m "2.0.0"`
     - `git push`
+
+4. Ahora pasaremos a la versión 2.1.0:
+  i. Crearemos una nueva rama 
+  ii. En esta nueva rama lo que haremos será crear una nueva clase para el proyecto llamada x
+  iii. Finalmente subimos la version 2.1.0 a Github con los camndos:
+
+6. Cambios para la nueva versión 2.2.0:
+7. Actualizamos la rama principal con la rama creada anteriormente usando estos comandos:
+8. Cambiamos a una nueva versión 3.1.0
+9. Finalmente actualizamos la rama principal y ya tendriamos nuestro proyecto actualizado en su ultima versión habiendo pasado por varias actualizaciones y creando ramas.
