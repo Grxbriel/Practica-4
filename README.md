@@ -10,6 +10,13 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 ### ¿Que es GitHub?
 GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador.
 
+Algunos de los comandos básicos de Git son:
+```
+git status
+git add
+git commit
+```
+
 ### Refactorización
 Es una técnica de la ingeniería de software para reestructurar un código fuente, alterando su estructura interna sin cambiar su comportamiento externo.
 
@@ -25,3 +32,5 @@ Es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir l
 En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, ya que explica ssu sintaxis básicas y algunos consejos: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # Desarrollo Practica 4
+
+
