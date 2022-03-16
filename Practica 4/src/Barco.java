@@ -1,6 +1,6 @@
 import java.util.Date;
 
-public class Barco implements Sonido{
+public class Barco {
 	
 	//Atributos
     private Motor motor;

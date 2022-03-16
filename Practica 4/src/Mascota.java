@@ -1,5 +1,5 @@
 
-public abstract class Mascota implements Sonido {
+public abstract class Mascota {
 	
 	//Atributos
 	private String Nombre;
