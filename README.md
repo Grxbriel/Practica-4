@@ -34,13 +34,17 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 # Desarrollo Practica 4
 
 1. Para subir nuestro proyecto ya empezado a GitHub lo que haremos será usar los siguientes comandos (Estos los usaremos estando en la carpte de nuestro proyecto para veitar tener que poner rutas) :
-- `~/Documents/Practica 4 $ git init`
-- `git add .`
-- `git commit -m "1.0.0"`
-- `git push`
+  - `~/Documents/Practica 4 $ git init`
+  - `git add .`
+  - `git commit -m "1.0.0"`
+  - `git push`
 
 2. Una vez tenemos el repositorio creado en GitHub con nuestro proyecto, los compañeros pueden descargarse el proyecto a local con el siguiente comando:
-- `Git clone https://github.com/Grxbriel/Practica-4.git`
+  - `Git clone https://github.com/Grxbriel/Practica-4.git`
 
 3. Lo siguiente que haremos será crear la versión 2.0.0 del proyecto:
-
+  1. Eliminaremos <<interface>> Sonido y todo lo relacionado:
+    - `~/Documents/Practica 4 $ git init`
+  - `git add .`
+  - `git commit -m "1.0.0"`
+  - `git push`
