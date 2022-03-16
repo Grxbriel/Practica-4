@@ -4,19 +4,19 @@
 
 # Introducción
 
-#####¿Que es Git?
+######¿Que es Git?
 github es una herramienta .....
 
-#####¿Que es GitHub?
+######¿Que es GitHub?
 es una heramienta.....
 
-#####Markdown
+######Markdown
 es una heramienta.....
 
-#####Versionado Semantico
+######Versionado Semantico
 es una heramienta.....
 
-#####Refactorización
+######Refactorización
 es una heramienta.....
 
 # Desarrollo Practica 4
