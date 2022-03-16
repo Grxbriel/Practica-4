@@ -4,10 +4,10 @@
 
 ## Introducción
 
-###### ¿Que es Git?
+### ¿Que es Git?
 Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
 
-###### ¿Que es GitHub?
+### ¿Que es GitHub?
 GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador.
 
 ###### Refactorización
