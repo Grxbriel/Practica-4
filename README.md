@@ -99,8 +99,8 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
   	```
   ii. Crearemos una nueva rama:
 	`git branch desarrollo origin/master `
-	* `git switch desarrollo`
-  
+	`git switch desarrollo`
+  	`git push -u origin desarrollo`
   iii. Finalmente subimos la version 2.1.0 a Github con los camndos:
     	`git add .`
     	`git commit -m "2.1.0"`
