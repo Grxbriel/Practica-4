@@ -1,5 +1,5 @@
 
-public abstract class Persona {
+public class Persona {
 	
 	 //Atributos
     private String nombre = new String();
