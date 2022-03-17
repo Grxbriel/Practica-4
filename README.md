@@ -126,5 +126,5 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 	- `git push`
 	
 8. Ahora juntamos la rama que hemos creado anteriormente con la rama principal con los siguientes comandos:
-	- ` `
-	- ` `
+	- `git switch master `
+	- `git merge desarrollo `
