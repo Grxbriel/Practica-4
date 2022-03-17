@@ -113,6 +113,12 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 
 	}
 	```
+- Nos quedará algo así el cambio de la versión 2.2.0:
+	```
+	public class Mascota {
+
+	}
+	```
 
 7. Actualizamos la rama principal con la rama creada anteriormente usando estos comandos:
 	- `git add .`
