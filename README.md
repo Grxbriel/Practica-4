@@ -110,13 +110,13 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 - En esta versión quitamos el abstract de la clase mascota:
 	```
 	public abstract class Mascota {
-
+	//Codigo
 	}
 	```
 - Nos quedará algo así el cambio de la versión 2.2.0:
 	```
 	public class Mascota {
-
+	//Codigo
 	}
 	```
 
