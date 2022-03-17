@@ -1,5 +1,5 @@
 
-public abstract class Mascota {
+public class Mascota {
 	
 	//Atributos
 	private String Nombre;
