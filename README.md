@@ -97,14 +97,14 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 		}
 	}
   	```
-  ii. Crearemos una nueva rama:
-	`git branch desarrollo origin/master `
-	`git switch desarrollo`
-  	`git push -u origin desarrollo`
-  iii. Finalmente subimos la version 2.1.0 a Github con los camndos:
-    	`git add .`
-    	`git commit -m "2.1.0"`
-    	`git push`
+- Crearemos una nueva rama:
+	- `git branch desarrollo origin/master `
+	- `git switch desarrollo`
+  	- `git push -u origin desarrollo`
+- Finalmente subimos la version 2.1.0 a Github con los camndos:
+	- `git add .`
+	- `git commit -m "2.1.0"`
+	- `git push`
 
 6. Cambios para la nueva versión 2.2.0:
 7. Actualizamos la rama principal con la rama creada anteriormente usando estos comandos:
