@@ -124,4 +124,7 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 	- `git add .`
 	- `git commit -m "2.2.0"`
 	- `git push`
-8.
+	
+8. Ahora juntamos la rama que hemos creado anteriormente con la rama principal con los siguientes comandos:
+	- ` `
+	- ` `
