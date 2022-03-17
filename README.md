@@ -65,7 +65,7 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
     - `git push`
 
 4. Ahora pasaremos a la versión 2.1.0:
-  i. En esta nueva rama lo que haremos será crear una nueva clase para el proyecto llamada pez:
+ - En esta nueva rama lo que haremos será crear una nueva clase para el proyecto llamada pez:
 	  ```
 	  public class Pez extends Mascota {
 
@@ -107,6 +107,16 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 	- `git push`
 
 6. Cambios para la nueva versión 2.2.0:
+- En esta versión quitamos el abstract de la clase mascota:
+	```
+	public abstract class Mascota {
+
+	}
+	```
+
 7. Actualizamos la rama principal con la rama creada anteriormente usando estos comandos:
+	- `git add .`
+	- `git commit -m "2.2.0"`
+	- `git push`
 8. Cambiamos a una nueva versión 3.1.0
 9. Finalmente actualizamos la rama principal y ya tendriamos nuestro proyecto actualizado en su ultima versión habiendo pasado por varias actualizaciones y creando ramas.
