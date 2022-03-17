@@ -4,7 +4,7 @@ public class Pez extends Mascota {
     private String raza ;
 
     //Constructores
-    public Pez(String raza){
+    public Pez(String raza, String Nombre, Integer Edad){
         super(Nombre, Edad);
         this.setRaza(raza);
     }
