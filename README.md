@@ -124,5 +124,4 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 	- `git add .`
 	- `git commit -m "2.2.0"`
 	- `git push`
-8. Cambiamos a una nueva versión 3.1.0
-9. Finalmente actualizamos la rama principal y ya tendriamos nuestro proyecto actualizado en su ultima versión habiendo pasado por varias actualizaciones y creando ramas.
+8.
