@@ -128,3 +128,25 @@ En este link puedes econtrar mucha utilidad si te estas iniciando en Markdown, y
 8. Ahora juntamos la rama que hemos creado anteriormente con la rama principal con los siguientes comandos:
 	- `git switch master `
 	- `git merge desarrollo `
+	
+9. Como ultimo paso crearemos la versión 3.1.0 teniendo ya la versión 3.0.0 que sale de juntar la rama creada anteriormente con la rama principal:
+	- Los cambios de la nueva versión son:
+	```
+	public abstract class persona {
+	//Codigo
+	}
+	
+	// pasa a ser 
+	
+	public class persona {
+	// Codigo
+	}
+	```
+
+	- Usaremos los siguientes comandos:
+	- `git add .`
+	- `git commit -m "3.1.0"`
+	- `git push`
+	
+10. Y con esto ya tendríamos nuestro proyecto y practica finalizado.
+	
